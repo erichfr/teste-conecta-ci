@@ -1,7 +1,7 @@
 
 # Teste Conecta Lá
 
-Este é um projeto simples desenvolvido em CodeIgniter 3, destinado a gerenciar usuários de forma básica.
+Este projeto é uma API RESTful desenvolvida em **Codeigniter 3** como parte do processo seletivo para empresa Conecta Lá. A API permite **criar, listar, atualizar e deletar usuários**, utilizando **MySQL** como banco de dados.
 
 ## Pré-requisitos
 
