@@ -1,7 +1,7 @@
 
 # Teste Conecta Lá
 
-Este é um projeto simples desenvolvido em CodeIgniter 3, destinado a gerenciar usuários.
+Este é um projeto simples desenvolvido em CodeIgniter 3, destinado a gerenciar usuários de forma básica.
 
 ## Pré-requisitos
 
